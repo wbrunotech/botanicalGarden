@@ -1,5 +1,7 @@
 # No projeto "Jardim Botânico", mergulhei na criação de um design web envolvente com HTML e CSS. 
 
+Acesse: https://wbrunotech.github.io/botanicalGarden/
+
 Utilizei a classe ".limita-largura" para garantir uma experiência visualmente coesa em vários dispositivos, ajustando automaticamente a largura do conteúdo. 
 
 A atenção aos detalhes, como os estilos de fundo nas seções topo e rodapé, contribuiu para um ambiente atraente e legível.
